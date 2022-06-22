@@ -1,0 +1,8 @@
+.container-fluid {
+    text-align: center;
+}
+
+.collapse {
+    justify-content: center;
+    display: flex;
+}
